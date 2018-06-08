@@ -1,4 +1,13 @@
 # Plyr w/ RequireJS
 
-[plyr]() 
-[requirejs]()
+Main libraries used:
+
+- [plyr](https://github.com/sampotts/plyr)  
+- [requirejs](https://github.com/requirejs/requirejs)
+
+### Quick Setup
+
+```
+node install
+node start
+```
