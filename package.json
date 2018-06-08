@@ -4,9 +4,11 @@
   "description": "Testing Plyr with requirejs",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Saw-mon and Natalie",
+  "url": "http://youtube.com/Sawmonandnatalie",
   "license": "MIT",
   "dependencies": {
     "express": "^4.16.3",
