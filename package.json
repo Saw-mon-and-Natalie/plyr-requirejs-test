@@ -1,0 +1,17 @@
+{
+  "name": "plyr-requirejs-test",
+  "version": "1.0.0",
+  "description": "Testing Plyr with requirejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Saw-mon and Natalie",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3",
+    "jquery": "^3.3.1",
+    "plyr": "^3.3.10",
+    "requirejs": "^2.3.5"
+  }
+}
